@@ -1,0 +1,58 @@
+
+ h1 {
+    font-family: 'Shadows Into Light', cursive;
+    color: pink;
+}
+
+
+h2 {
+
+font-family: 'Balthazar', serif;
+color: tan;
+}
+
+h3 {
+font-family: 'Maven Pro', sans-serif;
+color: #686262;
+
+}
+
+p {
+
+	font-family: 'Sniglet', cursive;
+	color: #000000;
+}
+
+
+div{
+	margin: 20px;
+	height: 52px;
+	width: 52px;
+	outline-color: black;
+}
+
+.color-1 {
+	background: pink;
+}
+
+.color-2 {
+	background: tan;
+}
+
+.color-3 {
+	background: #686262;
+}
+
+.pattern-1 {
+	background: url('../img/xv_@2x.png');
+}
+
+.pattern-2 {
+
+	background: url('../img/soft_circle_scales.png');
+
+}
+
+.pattern-3 {
+	background: url('../img/retina_wood.png');
+}
